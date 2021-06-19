@@ -1,3 +1,6 @@
+#Takes -Contact Name, Message, Time  as input
+#and sends message to the given contact at given time
+
 from selenium import webdriver
 PATH = 'C:\Program Files (x86)\chromedriver.exe'
 driver = webdriver.Chrome(PATH)

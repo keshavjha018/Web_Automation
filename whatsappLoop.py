@@ -1,4 +1,4 @@
-# evertime this bot takes message and no of messages to be sent as input
+# evertime this program takes message and no of messages to be sent as input
 # and sends them via whatsapp to specified contact
 #(Runs as many times user want)
 

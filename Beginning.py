@@ -12,7 +12,7 @@ driver.get('https://youtube.com')
 #Finding the searchbox on the website
 searchbox = driver.find_element_by_xpath('//*[@id="search"]')  #here searchbox is a variable
 #typing into the search Box
-searchbox.send_keys('Bhakti songs')
+searchbox.send_keys('New Songs')
 
 #Finding search icon to click
 searchbutton = driver.find_element_by_xpath('//*[@id="search-icon-legacy"]/yt-icon')  #searchbotton is a variable

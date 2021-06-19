@@ -1,4 +1,4 @@
-#bot to read a blog automatically
+#Opens, reads and closes the given blog in LOOP
 
 from selenium import webdriver
 PATH = 'C:\Program Files (x86)\chromedriver.exe'

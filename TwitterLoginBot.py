@@ -1,4 +1,5 @@
-#this bot logins to twitter.com
+#this program will  login  to twitter.com
+#with given user id and ppassword
 
 from selenium import webdriver
 PATH = 'C:\Program Files (x86)\chromedriver.exe'
