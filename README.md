@@ -1,3 +1,5 @@
+Web automation is the concept of letting software robots perform pre-defined actions, tasks, and processes on a web browser or web application.
+
 Programs are made using Python and Selenium framework.
 
 There are some requirements for running these programs in any system,
